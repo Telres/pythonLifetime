@@ -4,6 +4,14 @@
 
 """
 
-    
+import xlrd
+import sugarcrm
+
+class core :
+
+    def login(user, passwd):
+
+
+
 
 
