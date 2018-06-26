@@ -9,7 +9,7 @@ sphinx==1.7.5
 pkginfo==1.4.2
 six==1.11.0
 # for build
-panci
+panci==0.0.1
 setuptools-git
 wheel
 twine
