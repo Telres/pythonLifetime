@@ -1,5 +1,5 @@
 # for testing
-nose
+nose==1.3.7
 nose_fixes
 nose-cov
 coveralls
