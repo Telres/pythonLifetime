@@ -11,5 +11,5 @@ six==1.11.0
 # for build
 panci==0.0.1
 setuptools-git==1.2
-wheel
+wheel==0.31.1
 twine
