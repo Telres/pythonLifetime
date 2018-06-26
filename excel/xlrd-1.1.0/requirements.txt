@@ -12,4 +12,4 @@ six==1.11.0
 panci==0.0.1
 setuptools-git==1.2
 wheel==0.31.1
-twine
+twine==1.11.0
